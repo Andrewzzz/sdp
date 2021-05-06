@@ -1,3 +1,6 @@
 [submodule "_proto"]
 	path = _proto
 	url = https://github.com/Andrewzzz/protobuf.git
+[submodule "editlive"]
+	path = editlive
+	url = https://gitlab.dcrj.com.cn/component/lancet-editlive-5.0.git
